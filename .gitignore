@@ -1,0 +1,10 @@
+# idea
+.idea/
+
+# VSCode
+.vscode/
+
+# Arquivos de ambiente
+.env
+.env.*
+
