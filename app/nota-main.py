@@ -1,5 +1,3 @@
-import utils
-
 usuarios = {'motoristas': [], 'passageiros': []}
 caronas = []
 reservas = []
